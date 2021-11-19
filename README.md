@@ -11,7 +11,7 @@
 
 | Prerequisites |
 
-    Minecraft Version 1.16.2 up to 1.16.5 (NO 1.17 OKAY ? for now at least...)
+    Minecraft Version 1.16.2 and up
 
 | Features |
 
