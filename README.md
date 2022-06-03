@@ -7,7 +7,7 @@
 
 | My Website | https://rgg200.github.io (down)
 
-| My discord Server | https://discord.gg/U6pgmqj95C
+| My discord Server | https://discord.gg/eZyBbPUmEt
 
 | Prerequisites |
 
