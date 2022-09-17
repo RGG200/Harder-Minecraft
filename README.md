@@ -1,5 +1,4 @@
 # [Beta] Harder-Minecraft
-[ BETA ] | Datapacks Reloaded McRpgDatpack |
 
 | Description |
 
