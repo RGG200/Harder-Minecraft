@@ -14,11 +14,11 @@
 
 | Features |
 
- - This datapack gives all hostile mob armor and weapons and also effects to
+ - This datapack gives all hostile mob armor and weapons and also effects too
 
  - your health is divided by 2 and you lose 10 armor points
  
- - if you have a diamond or netherite armor it will increase you health  
+ - if you have a diamond or netherite armor it will increase your health  
 
 | Setup Video |
 
@@ -27,10 +27,8 @@
 | Feedback, Questions |
 
  • If you have and Questions or Propostions send it to me on the Pull Request tab. 
- • If you have bug or issue send it to the Issues tab.
+ • If you have bugs or issues send your request to the Issues tab.
 
 | Credits |
-
-| Team |
 
 • | RGG2.0 | Developper |
