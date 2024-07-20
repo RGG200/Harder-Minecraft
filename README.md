@@ -1,18 +1,12 @@
-# [Beta] Harder-Minecraft
+# [Ascecia-Datapacks] Harder-Minecraft
 
-| Description |
+- Harder Minecraft is a datapack that make minecraft harder
 
-   Harder Minecraft is a datapack that make minecraft harder
+## Prerequisites
 
-| My Website | https://rgg200.github.io (down)
+- Minecraft Version 1.16.2 and up
 
-| My discord Server | https://discord.gg/eZyBbPUmEt
-
-| Prerequisites |
-
-    Minecraft Version 1.16.2 and up
-
-| Features |
+## Features
 
  - This datapack gives all hostile mob armor and weapons and also effects too
 
@@ -20,15 +14,10 @@
  
  - if you have a diamond or netherite armor it will increase your health  
 
-| Setup Video |
+## Setup Video
 
     Comming soon...
 
-| Feedback, Questions |
-
- • If you have and Questions or Propostions send it to me on the Pull Request tab. 
- • If you have bugs or issues send your request to the Issues tab.
-
-| Credits |
+## Credits 
 
 • | RGG2.0 | Developper |
